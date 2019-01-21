@@ -1,6 +1,6 @@
 # BrickBreaker
 Project for Embedded Systems - BrickBreaker Game
 
-##Video
+## Video
 https://youtu.be/Dcf8Mfbl8Cg
 
